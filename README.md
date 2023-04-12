@@ -29,6 +29,9 @@ Module containing all the functions needed to calculate the different metrics.
 
 - Sales, Profit by Country: Tree Map
 
+![image](https://user-images.githubusercontent.com/129417444/231529607-14392038-1d7f-4656-ad06-37cee3a73841.png)
+
+
 
 
 
