@@ -1,8 +1,7 @@
 # Globalsupperstore-analytics
-A compilation of modules for calculating key app usage metrics using nothing but python.
- 
-## stats
-Module containing all the functions needed to calculate the different metrics.
+
+## About this project
+Sales dataset found on Kaggle of what is presumed to be the sales data of a multinational corporation. The dataset contains sales data of 51290 distinct orders, 165 countries, and 23 regions. The goal of this analysis is to explore the consumer segmentation trends within the dataset based on a variety of variables.
 
 - growth: visualisation of Number of orders by month in 4 years: Line
 
