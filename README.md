@@ -32,7 +32,8 @@ Sales dataset found on Kaggle of what is presumed to be the sales data of a mult
 
 - Sales, Profit by Country: tree map
 
-![image](https://user-images.githubusercontent.com/129417444/231529607-14392038-1d7f-4656-ad06-37cee3a73841.png)
+![image](https://user-images.githubusercontent.com/129417444/232854070-0090d8de-d816-4328-ad81-887ef4b6eeb8.png)
+
 
 
 
