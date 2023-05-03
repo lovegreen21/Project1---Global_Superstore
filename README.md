@@ -5,34 +5,30 @@ Sales dataset found on Kaggle of what is presumed to be the sales data of a mult
 
 - growth: visualisation of Number of orders by month in 4 years: Line
 
-![image](https://user-images.githubusercontent.com/129417444/230786449-b5079d32-586c-46f8-9d1d-861fb8e0463f.png)
+![image](https://user-images.githubusercontent.com/129417444/235937401-1a9c03a1-aaa7-485e-a715-a27c368a49aa.png)
 
 - The number of orders and The mean shipping cost: bar, line
 
-![image](https://user-images.githubusercontent.com/129417444/230786578-4bcbeea2-10b2-485a-b83a-74af57ed0d4b.png)
-- Category cost by year: bar
+![image](https://user-images.githubusercontent.com/129417444/235937557-5b3b0c99-ae9b-4062-9127-fc8e733ee8ef.png)
+- Top best selling products: Treemap
 
-![image](https://user-images.githubusercontent.com/129417444/232793274-0650fbed-5220-45bc-9b93-84528f4c1137.png)
-- Correlative between Profit & Sales: scatter
+![image](https://user-images.githubusercontent.com/129417444/235937992-71667367-05aa-4412-8441-e3154d2535a4.png)
+- Comparing Total order, Total sales, Total profit  by category
 
-![image](https://user-images.githubusercontent.com/129417444/232793473-1e08d363-27c9-4629-aa7e-a99c2bcaad52.png)
+![image](https://user-images.githubusercontent.com/129417444/235941453-161f926b-7f09-4a94-8587-ef3d846d4b38.png)
+- Number of orders per segment
 
-- The most common category: bar
+![image](https://user-images.githubusercontent.com/129417444/235941653-74eef87d-43fa-4db2-8390-c90ba14ce9ba.png)
+- Correlative between Profit & Sales
 
-![image](https://user-images.githubusercontent.com/129417444/230786679-8ae41edb-fd41-43d4-af45-58fdf68c6469.png)
-- Segment order: bar
+![image](https://user-images.githubusercontent.com/129417444/235941743-c304a7f6-d72d-4d96-89af-d6876a82e457.png)
+- Correlative between Discount, Quantity & Sales by Category:
 
-![image](https://user-images.githubusercontent.com/129417444/230786714-06aece7c-c0ad-491d-92bb-64087a55a7da.png)
-- Comparing Total order, Total sales, Total profit by category: bar 
+![image](https://user-images.githubusercontent.com/129417444/235941836-dc944b98-72f4-4361-b256-858ac6495c22.png)
+- Sales, Profit by Country/State : Tree Map:
 
-![image](https://user-images.githubusercontent.com/129417444/230786777-5b6dec06-5465-4a8c-8066-716d1562a429.png) 
-- Comparing Discount Sales: histogram
+![image](https://user-images.githubusercontent.com/129417444/235942095-b6b6eb59-859c-42f4-a47c-961058d099aa.png)
 
-![image](https://user-images.githubusercontent.com/129417444/230786789-cf764855-b704-4295-8453-6881ceb277b2.png)
-
-- Sales, Profit by Country: tree map
-
-![image](https://user-images.githubusercontent.com/129417444/232854070-0090d8de-d816-4328-ad81-887ef4b6eeb8.png)
 
 
 
