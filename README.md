@@ -9,8 +9,7 @@ Creating dashboard by Python:
 ![image](https://github.com/lovegreen21/Project1---Global_Superstore/assets/129417444/16b406af-55c0-4137-ba55-b32d697a72ac)
 
 Creating dashboard by Power BI:
-![image](https://github.com/lovegreen21/Project1---Global_Superstore/assets/129417444/e835d65e-542d-4175-9f2b-606fd477afa3)
-
+![image](https://github.com/lovegreen21/Project1---Global_Superstore/assets/129417444/caeae28a-15a5-46d4-b135-e2b33e2a5313)
 
 
 
